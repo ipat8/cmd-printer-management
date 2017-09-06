@@ -8,4 +8,4 @@ You can use this script to manage WSD printers on your network. Deploying this v
 Description:
 This script first removes all printers, and all unused drivers. This ensures a clean slate when adding printers to a Windows system. If you don't want to remove your existing printers, please remove it from the script before running it.
 
-##YOU MUST EDIT THIS SCRIPT BEFORE RUNNING. IT WILL MAKE NO CHANGES UNTILL YOU MANUALLY ENABLE IT. THIS IS FOR YOUR PROTECTION.
+## YOU MUST EDIT THIS SCRIPT BEFORE RUNNING. IT WILL MAKE NO CHANGES UNTILL YOU MANUALLY ENABLE IT. THIS IS FOR YOUR PROTECTION.
